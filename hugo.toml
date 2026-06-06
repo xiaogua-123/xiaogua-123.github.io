@@ -1,13 +1,13 @@
-baseURL = 'https://zhuanz.github.io/'
+baseURL = 'https://xiaogua-123.github.io/'
 locale = 'zh-CN'
-title = "ZhuanZ' Blog"
+title = "xiaogua-123's Blog"
 theme = 'PaperMod'
 defaultContentLanguage = 'zh'
 enableInlineShortcodes = true
 
 [params]
-  description = "ZhuanZ 的个人博客"
-  author = "ZhuanZ"
+  description = "xiaogua-123 的个人博客"
+  author = "xiaogua-123"
   DateFormat = "2006-01-02"
   defaultTheme = "auto"
   ShowShareButtons = false
@@ -19,7 +19,7 @@ enableInlineShortcodes = true
   homeInfoParams = { Title = "Hi 👋", Content = "欢迎来到我的博客" }
 
   socialIcons = [
-    { name = "github", url = "https://github.com/zhuanz" }
+    { name = "github", url = "https://github.com/xiaogua-123" }
   ]
 
 [menu]
